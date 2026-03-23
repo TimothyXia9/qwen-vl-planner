@@ -1,2 +1,5 @@
 /models
 /docs
+
+.venv
+/data
