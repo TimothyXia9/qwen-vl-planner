@@ -2,6 +2,7 @@
 /docs
 
 .venv
+.claude
 /data
 
 *.pyc
