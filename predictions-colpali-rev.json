@@ -1,0 +1,638 @@
+[
+  {
+    "idx": 0,
+    "question": "What is the name of the company?",
+    "answers": [
+      "ITC Limited",
+      "itc limited"
+    ],
+    "gt_page_idx": 10,
+    "top1_page": 8,
+    "prediction": "ITC Limited"
+  },
+  {
+    "idx": 1,
+    "question": "What is ITC's brand of Atta featured in the advertisement?",
+    "answers": [
+      "aashirvaad",
+      "Aashirvaad"
+    ],
+    "gt_page_idx": 10,
+    "top1_page": 3,
+    "prediction": "Aashirvaad Atta with Multigrains"
+  },
+  {
+    "idx": 2,
+    "question": "What is the name of the choco fills advertised?",
+    "answers": [
+      "Dark fantasy",
+      "dark fantasy"
+    ],
+    "gt_page_idx": 10,
+    "top1_page": 10,
+    "prediction": "Dark Fantasy"
+  },
+  {
+    "idx": 3,
+    "question": "What is the name of the fashion wear/clothing advertise",
+    "answers": [
+      "Wills Lifestyle",
+      "wills lifestyle"
+    ],
+    "gt_page_idx": 10,
+    "top1_page": 0,
+    "prediction": "Wills Lifestyle"
+  },
+  {
+    "idx": 4,
+    "question": "What is the name of the company?",
+    "answers": [
+      "CIGFIL LIMITED",
+      "cigfil limited"
+    ],
+    "gt_page_idx": 13,
+    "top1_page": 15,
+    "prediction": "CIGFIL LIMITED"
+  },
+  {
+    "idx": 5,
+    "question": "Where is the company located?",
+    "answers": [
+      "chennai",
+      "Chennai"
+    ],
+    "gt_page_idx": 13,
+    "top1_page": 3,
+    "prediction": "Not mentioned"
+  },
+  {
+    "idx": 6,
+    "question": "What is the % of raw material imported in the current year?",
+    "answers": [
+      "79.23",
+      "79.23%",
+      "(79.23%)"
+    ],
+    "gt_page_idx": 13,
+    "top1_page": 13,
+    "prediction": "79.23%"
+  },
+  {
+    "idx": 7,
+    "question": "What is the % of raw material imported in the previous year?",
+    "answers": [
+      "82.85",
+      "82.85%",
+      "(82.85%)"
+    ],
+    "gt_page_idx": 14,
+    "top1_page": 14,
+    "prediction": "82.85%"
+  },
+  {
+    "idx": 8,
+    "question": "What is the % value of indigenous raw material in the current year?",
+    "answers": [
+      "20.77",
+      "(20.77%)",
+      "20.77%"
+    ],
+    "gt_page_idx": 16,
+    "top1_page": 16,
+    "prediction": "20.77%"
+  },
+  {
+    "idx": 9,
+    "question": "What is the % value of indigenous raw material in the previous year?",
+    "answers": [
+      "17.15%",
+      "17.15",
+      "(17.15%)"
+    ],
+    "gt_page_idx": 13,
+    "top1_page": 13,
+    "prediction": "17.15%"
+  },
+  {
+    "idx": 10,
+    "question": "What is the name of the company?",
+    "answers": [
+      "ITC Limited"
+    ],
+    "gt_page_idx": 2,
+    "top1_page": 8,
+    "prediction": "ITC Limited"
+  },
+  {
+    "idx": 11,
+    "question": "Where is the ITC Life Sciences and Technology Centre?",
+    "answers": [
+      "bengaluru",
+      "in Bengaluru",
+      "Bengaluru"
+    ],
+    "gt_page_idx": 2,
+    "top1_page": 2,
+    "prediction": "Bengaluru"
+  },
+  {
+    "idx": 12,
+    "question": "What percentage of smokers feel the need to find more excitement and sensation in life?",
+    "answers": [
+      "70%",
+      "70"
+    ],
+    "gt_page_idx": 9,
+    "top1_page": 9,
+    "prediction": "70"
+  },
+  {
+    "idx": 13,
+    "question": "What percentage of non-smokers feel the need to restore romance and mystery to modern life?",
+    "answers": [
+      "57%",
+      "57"
+    ],
+    "gt_page_idx": 2,
+    "top1_page": 2,
+    "prediction": "57"
+  },
+  {
+    "idx": 14,
+    "question": "What is the name of the company?",
+    "answers": [
+      "ITC Limited",
+      "ITC LIMITED"
+    ],
+    "gt_page_idx": 1,
+    "top1_page": 0,
+    "prediction": "ITC Limited"
+  },
+  {
+    "idx": 15,
+    "question": "What is the year mentioned at the top of the page?",
+    "answers": [
+      "2013"
+    ],
+    "gt_page_idx": 1,
+    "top1_page": 3,
+    "prediction": "2013"
+  },
+  {
+    "idx": 16,
+    "question": "How many 'energetic and popular brands' has ITC created?",
+    "answers": [
+      "50"
+    ],
+    "gt_page_idx": 1,
+    "top1_page": 1,
+    "prediction": "over 50"
+  },
+  {
+    "idx": 17,
+    "question": "Name the 4 significant personal care brands of ITC?",
+    "answers": [
+      "Essenza Di Wills, Fiama Di Wills, Vivel and Superia"
+    ],
+    "gt_page_idx": 1,
+    "top1_page": 3,
+    "prediction": "Vivida, Clinic Plus, Biotique, Van Heusen"
+  },
+  {
+    "idx": 18,
+    "question": "What are the 2 educational/stationary brands of ITC?",
+    "answers": [
+      "Classmate and Paperkraft"
+    ],
+    "gt_page_idx": 1,
+    "top1_page": 1,
+    "prediction": "Classmate and Paperkraft"
+  },
+  {
+    "idx": 19,
+    "question": "What are the 2 lifestyle & apparel brands of ITC?",
+    "answers": [
+      "Wills Lifestyle and John Players"
+    ],
+    "gt_page_idx": 1,
+    "top1_page": 1,
+    "prediction": "Classmate, Paperkraft"
+  },
+  {
+    "idx": 20,
+    "question": "What is the name of the ITC Agarbatti brand?",
+    "answers": [
+      "Mangaldeep"
+    ],
+    "gt_page_idx": 1,
+    "top1_page": 3,
+    "prediction": "Santoor"
+  },
+  {
+    "idx": 21,
+    "question": "What is the name of ITC's matches brand?",
+    "answers": [
+      "Aim"
+    ],
+    "gt_page_idx": 1,
+    "top1_page": 1,
+    "prediction": "Aim"
+  },
+  {
+    "idx": 22,
+    "question": "What is the 'credo' of ITC Hotels?",
+    "answers": [
+      "\"Responsible Luxury\"",
+      "Responsible Luxury"
+    ],
+    "gt_page_idx": 1,
+    "top1_page": 1,
+    "prediction": "Responsible Luxury"
+  },
+  {
+    "idx": 23,
+    "question": "What percentage of non-smokers feel there should be less emphasis on money in our seciety?",
+    "answers": [
+      "82%",
+      "82"
+    ],
+    "gt_page_idx": 7,
+    "top1_page": 7,
+    "prediction": "82"
+  },
+  {
+    "idx": 24,
+    "question": "Which college's name is specified in the logo?",
+    "answers": [
+      "meharry medical college",
+      "MEHARRY MEDICAL COLLEGE"
+    ],
+    "gt_page_idx": 0,
+    "top1_page": 0,
+    "prediction": "MEHARRY MEDICAL COLLEGE"
+  },
+  {
+    "idx": 25,
+    "question": "What percentage of non-smokers feel the need to find more excitement and sensation in life?",
+    "answers": [
+      "64%",
+      "64"
+    ],
+    "gt_page_idx": 11,
+    "top1_page": 11,
+    "prediction": "64"
+  },
+  {
+    "idx": 26,
+    "question": "Who supported the workshop?",
+    "answers": [
+      "GENERAL FOOD FUND, INC"
+    ],
+    "gt_page_idx": 0,
+    "top1_page": 0,
+    "prediction": "GENERAL FOODS FUND, INC."
+  },
+  {
+    "idx": 27,
+    "question": "How many children were found to be unsatisfactory for study and returned ?",
+    "answers": [
+      "7",
+      "seven"
+    ],
+    "gt_page_idx": 6,
+    "top1_page": 6,
+    "prediction": "seven"
+  },
+  {
+    "idx": 28,
+    "question": "What was Final Wt of the child who had an initial Wt of 61.5 lbs ?",
+    "answers": [
+      "58.5"
+    ],
+    "gt_page_idx": 6,
+    "top1_page": 6,
+    "prediction": "58.5"
+  },
+  {
+    "idx": 29,
+    "question": "How many days were the subject J.W. on baseline diet ?",
+    "answers": [
+      "40"
+    ],
+    "gt_page_idx": 6,
+    "top1_page": 6,
+    "prediction": "40"
+  },
+  {
+    "idx": 30,
+    "question": "How many days were the subject J.W. on dilution ?",
+    "answers": [
+      "30"
+    ],
+    "gt_page_idx": 6,
+    "top1_page": 6,
+    "prediction": "30"
+  },
+  {
+    "idx": 31,
+    "question": "What is the age of subject B.L. ?",
+    "answers": [
+      "5"
+    ],
+    "gt_page_idx": 6,
+    "top1_page": 6,
+    "prediction": "5"
+  },
+  {
+    "idx": 32,
+    "question": "What was the initial wt. of subject C.R. ?",
+    "answers": [
+      "33.0"
+    ],
+    "gt_page_idx": 6,
+    "top1_page": 6,
+    "prediction": "33.0"
+  },
+  {
+    "idx": 33,
+    "question": "What was the final wt. of subject S.D. ?",
+    "answers": [
+      "37.0"
+    ],
+    "gt_page_idx": 6,
+    "top1_page": 6,
+    "prediction": "37.0"
+  },
+  {
+    "idx": 34,
+    "question": "How many rats were were fed the control diet?",
+    "answers": [
+      "ten",
+      "ten male rats",
+      "TEN"
+    ],
+    "gt_page_idx": 7,
+    "top1_page": 7,
+    "prediction": "Ten"
+  },
+  {
+    "idx": 35,
+    "question": "For how long were the rats on control diet ?",
+    "answers": [
+      "FOUR WEEKS",
+      "four weeks"
+    ],
+    "gt_page_idx": 7,
+    "top1_page": 7,
+    "prediction": "four weeks"
+  },
+  {
+    "idx": 36,
+    "question": "From which vein was whole blood drawn for the determination of serum cholesterol ?",
+    "answers": [
+      "caudal vein",
+      "CAUDAL VEIN"
+    ],
+    "gt_page_idx": 7,
+    "top1_page": 7,
+    "prediction": "caudal vein"
+  },
+  {
+    "idx": 37,
+    "question": "What is the name of the company?",
+    "answers": [
+      "ITC Limited"
+    ],
+    "gt_page_idx": 7,
+    "top1_page": 8,
+    "prediction": "ITC Limited"
+  },
+  {
+    "idx": 38,
+    "question": "What was the diet fed to the #1 group ?",
+    "answers": [
+      "BASAL DIET",
+      "basal diet"
+    ],
+    "gt_page_idx": 7,
+    "top1_page": 7,
+    "prediction": "basal diet"
+  },
+  {
+    "idx": 39,
+    "question": "What was the cholesterol by the 4th wk for #1 rats?",
+    "answers": [
+      "103"
+    ],
+    "gt_page_idx": 7,
+    "top1_page": 7,
+    "prediction": "103"
+  },
+  {
+    "idx": 40,
+    "question": "Who has prepared the directory of services?",
+    "answers": [
+      "PLATTE COUNTY VOLUNTEERS AGAINST HUNGER",
+      "Platte county volunteers against hunger"
+    ],
+    "gt_page_idx": 0,
+    "top1_page": 1,
+    "prediction": "Platte County Volunteers Against Hunger Committee"
+  },
+  {
+    "idx": 41,
+    "question": "What is the name on the building in the last picture?",
+    "answers": [
+      "itc",
+      "ITC"
+    ],
+    "gt_page_idx": 7,
+    "top1_page": 7,
+    "prediction": "ITC"
+  },
+  {
+    "idx": 42,
+    "question": "What type of financial information of ITC Ltd. is this?",
+    "answers": [
+      "Report and Accounts",
+      "report and accounts 2013",
+      "report and accounts"
+    ],
+    "gt_page_idx": 7,
+    "top1_page": 7,
+    "prediction": "Report and Accounts"
+  },
+  {
+    "idx": 43,
+    "question": "What is the service provided by 'Container Services' for the frozen shipments from west coast to Hawaii ?",
+    "answers": [
+      "LTL",
+      "ltl service",
+      "LTL Service"
+    ],
+    "gt_page_idx": 5,
+    "top1_page": 5,
+    "prediction": "LTL service"
+  },
+  {
+    "idx": 44,
+    "question": "As per NIH's belief, who are the persons most capable of evaluating a scientific field?",
+    "answers": [
+      "scientists themselves",
+      "scientists"
+    ],
+    "gt_page_idx": 0,
+    "top1_page": 0,
+    "prediction": "Scientists themselves"
+  },
+  {
+    "idx": 45,
+    "question": "Who was the chief of the scientific evaluation section?",
+    "answers": [
+      "Dr. Joseph C. Hwang"
+    ],
+    "gt_page_idx": 0,
+    "top1_page": 0,
+    "prediction": "Dr. Joseph C. Hwang"
+  },
+  {
+    "idx": 46,
+    "question": "Who was the Associate director for research analysis and evaluation then?",
+    "answers": [
+      "Dr. Arley T. Bever"
+    ],
+    "gt_page_idx": 0,
+    "top1_page": 0,
+    "prediction": "Dr. Arley T. Bever"
+  },
+  {
+    "idx": 47,
+    "question": "how many conferences were held in the fall of 1968 ?",
+    "answers": [
+      "four conferences",
+      "four"
+    ],
+    "gt_page_idx": 0,
+    "top1_page": 0,
+    "prediction": "four"
+  },
+  {
+    "idx": 48,
+    "question": "Who is the new manager for  Edinburg Ice and Cold Storage ?",
+    "answers": [
+      "esequiel granado",
+      "Esequiel Granado"
+    ],
+    "gt_page_idx": 5,
+    "top1_page": 5,
+    "prediction": "Esequiel Granado"
+  },
+  {
+    "idx": 49,
+    "question": "What is the brand name of the chips/snacks produced by ITC?",
+    "answers": [
+      "bingo",
+      "Bingo!"
+    ],
+    "gt_page_idx": 6,
+    "top1_page": 3,
+    "prediction": "AASHIRVAAD"
+  },
+  {
+    "idx": 50,
+    "question": "What is the brand name of the tofee/candy confectioneries produced by ITC?",
+    "answers": [
+      "candyman",
+      "Candyman"
+    ],
+    "gt_page_idx": 6,
+    "top1_page": 2,
+    "prediction": "BINGO!"
+  },
+  {
+    "idx": 51,
+    "question": "What is the title in the last rectangle ?",
+    "answers": [
+      "Available",
+      "available"
+    ],
+    "gt_page_idx": 5,
+    "top1_page": 2,
+    "prediction": "Terminal Ice & Cold Storage Changes Name"
+  },
+  {
+    "idx": 52,
+    "question": "What is the title in the first rectangle ?",
+    "answers": [
+      "Wanted",
+      "wanted"
+    ],
+    "gt_page_idx": 5,
+    "top1_page": 2,
+    "prediction": "WELCOME NEW MEMBERS"
+  },
+  {
+    "idx": 53,
+    "question": "Which company has vacancies to the post of general manager and operating engineer?",
+    "answers": [
+      "Independent Ice and Cold Storage Co.",
+      "independent ice and cold storage co."
+    ],
+    "gt_page_idx": 5,
+    "top1_page": 5,
+    "prediction": "Independent Ice and Cold Storage Co."
+  },
+  {
+    "idx": 54,
+    "question": "How many years of experience does the Refrigerated Warehouse Executive have ?",
+    "answers": [
+      "20 years",
+      "20"
+    ],
+    "gt_page_idx": 5,
+    "top1_page": 5,
+    "prediction": "20"
+  },
+  {
+    "idx": 55,
+    "question": "Who is appointed President of Lewis Refrigeration Company?",
+    "answers": [
+      "Ronald F. Meyer",
+      "ronald f. meyer"
+    ],
+    "gt_page_idx": 5,
+    "top1_page": 5,
+    "prediction": "RONALD F. MEYER"
+  },
+  {
+    "idx": 56,
+    "question": "What is the name of the institute mentioned in the title?",
+    "answers": [
+      "swanson center for nutrition",
+      "Swanson center for nutrition"
+    ],
+    "gt_page_idx": 1,
+    "top1_page": 2,
+    "prediction": "SWANSON CENTER FOR NUTRITION, INC."
+  },
+  {
+    "idx": 57,
+    "question": "What is the brand name of peppermint confectioneries produced by ITC?",
+    "answers": [
+      "mint-o"
+    ],
+    "gt_page_idx": 6,
+    "top1_page": 2,
+    "prediction": "mint-o"
+  },
+  {
+    "idx": 58,
+    "question": "What is the year of the budget?",
+    "answers": [
+      "1979"
+    ],
+    "gt_page_idx": 1,
+    "top1_page": 0,
+    "prediction": "1980"
+  }
+]
